@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+.divForColorBox {
+  width: 200px;
+  height: 200px;
+  border-style: inset;
+  border-width: 5px;
+  box-shadow: 10px 10px 10px gray;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.colorBlox-Container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}

@@ -1,0 +1,33 @@
+
+.colorBlox{
+    height: 50px;
+    width: 50px;
+    border: solid 2px;
+    transition: background 1s;
+ }
+ 
+ .Tenpx{
+    height: 10px;
+    width: 10px;
+ }
+ .Twentypx{
+    height: 20px;
+    width: 20px;
+ }
+ .Thirtypx{
+    height: 30px;
+    width: 30px;
+ }
+ .Fortypx{
+    height: 40px;
+    width: 40px;
+ }
+ .Fiftypx{
+    height: 50px;
+    width: 50px;
+ }
+
+ .colorBlox:hover {
+   cursor: crosshair;
+ }
+ 

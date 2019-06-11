@@ -1,0 +1,13 @@
+.displayText {
+    width: 150px;
+    height: 150px;
+    border-style: ridge;
+    margin: auto;
+    margin-top: 10px;
+    border-width: 5px;
+    overflow-y: scroll;
+}
+
+.inputss {
+    margin-left: 5px;
+}
